@@ -1,0 +1,324 @@
+[ 2016-08-19T09:45:40+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T09:45:40+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T09:45:40+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T09:45:40+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T09:53:39+08:00 ] ::1 /wgyt/index.php/Admin/Index/Estate/index
+ERR: 非法操作:Estate
+
+[ 2016-08-19T09:53:43+08:00 ] ::1 /wgyt/index.php/Admin/Index/Estate/index
+ERR: 非法操作:Estate
+
+[ 2016-08-19T09:53:49+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T09:53:49+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T09:53:49+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T09:53:49+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T09:56:33+08:00 ] ::1 /wgyt/index.php/Admin/Estate/calendar.html
+ERR: 非法操作:calendar
+
+[ 2016-08-19T10:54:22+08:00 ] ::1 /wgyt/index.php/Admin/Estate/modify.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `property` WHERE ( id= ) LIMIT 1  
+
+[ 2016-08-19T11:05:21+08:00 ] ::1 /wgyt/index.php/Admin/Estate/modify.html
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-19T11:06:46+08:00 ] ::1 /wgyt/index.php/Admin/Estate/modify.html
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-19T11:07:16+08:00 ] ::1 /wgyt/index.php/Admin/Estate/modify.html
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-19T11:07:51+08:00 ] ::1 /wgyt/index.php/Admin/Estate/modify.html
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-19T11:07:58+08:00 ] ::1 /wgyt/index.php/Admin/Estate/modify.html
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-19T11:08:48+08:00 ] ::1 /wgyt/index.php/Admin/Estate/modify.html
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-19T11:10:07+08:00 ] ::1 /wgyt/index.php/Admin/Estate/modify.html
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-19T11:10:16+08:00 ] ::1 /wgyt/index.php/Admin/Estate/modify.html
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-19T11:11:12+08:00 ] ::1 /wgyt/index.php/Admin/Estate/modify.html
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-19T13:47:40+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: 非法操作:update
+
+[ 2016-08-19T13:56:34+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `property` WHERE ( id= ) LIMIT 1  
+
+[ 2016-08-19T13:58:12+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `property` WHERE ( id= ) LIMIT 1  
+
+[ 2016-08-19T14:06:22+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `property` WHERE ( id= ) LIMIT 1  
+
+[ 2016-08-19T14:06:32+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `property` WHERE ( id= ) LIMIT 1  
+
+[ 2016-08-19T14:06:36+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `property` WHERE ( id= ) LIMIT 1  
+
+[ 2016-08-19T14:06:38+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `property` WHERE ( id= ) LIMIT 1  
+
+[ 2016-08-19T14:06:39+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `property` WHERE ( id= ) LIMIT 1  
+
+[ 2016-08-19T14:07:33+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `property` WHERE ( id= ) LIMIT 1  
+
+[ 2016-08-19T14:09:12+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: 1146:Table 'wgyt.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2016-08-19T14:10:41+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2016-08-19T14:10:52+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2016-08-19T14:11:24+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: Think\Model:relation方法不存在！
+
+[ 2016-08-19T14:30:07+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: 1054:Unknown column '$in' in 'where clause'
+ [ SQL语句 ] : UPDATE `property` SET `propertyid`='1',`name`='管理员 ',`tel`='13520955372',`address`='北京市朝阳区 ' WHERE ( id=$in )
+
+[ 2016-08-19T14:53:24+08:00 ] ::1 /wgyt/index.php/Admin/Estate/update.html
+ERR: 1054:Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : UPDATE `property` SET `propertyid`='1',`name`='管理员 ',`tel`='13520955372',`address`='北京市朝阳区 ' WHERE ( id=Array )
+
+[ 2016-08-19T17:00:21+08:00 ] ::1 /wgyt/index.php/Admin/Estate/widgets.html
+ERR: 非法操作:widgets
+
+[ 2016-08-19T17:11:36+08:00 ] ::1 /wgyt/index.php/Admin/Estate/login.html
+ERR: 非法操作:login
+
+[ 2016-08-19T17:11:58+08:00 ] ::1 /wgyt/index.php/Admin/Estate/login.html
+ERR: 非法操作:login
+
+[ 2016-08-19T17:32:46+08:00 ] ::1 /wgyt/index.php/Admin/Estate/login.html
+ERR: 非法操作:login
+
+[ 2016-08-19T17:33:09+08:00 ] ::1 /wgyt/index.php/Admin/Estate/login.html
+ERR: 非法操作:login
+
+[ 2016-08-19T17:42:54+08:00 ] ::1 /wgyt/index.php/Admin/Estate/Login/login
+ERR: 非法操作:Login
+
+[ 2016-08-19T17:44:05+08:00 ] ::1 /wgyt/index.php/Admin/Estate/Login/login
+ERR: 非法操作:Login
+
+[ 2016-08-19T17:44:07+08:00 ] ::1 /wgyt/index.php/Admin/Estate/Login/login
+ERR: 非法操作:Login
+
+[ 2016-08-19T17:44:13+08:00 ] ::1 /wgyt/index.php/Admin/Estate/Login/login
+ERR: 非法操作:Login
+
+[ 2016-08-19T17:45:34+08:00 ] ::1 /wgyt/index.php/Admin/Estate/Login/login
+ERR: 非法操作:Login
+
+[ 2016-08-19T17:48:44+08:00 ] ::1 /wgyt/index.php/Admin/Estate/Login/login
+ERR: 非法操作:Login
+
+[ 2016-08-19T17:49:11+08:00 ] ::1 /wgyt/index.php/Admin/Estate/Login/login
+ERR: 非法操作:Login
+
+[ 2016-08-19T17:49:57+08:00 ] ::1 /wgyt/index.php/Admin/Estate/Login/login
+ERR: 非法操作:Login
+
+[ 2016-08-19T17:50:03+08:00 ] ::1 /wgyt/index.php/Admin/Estate/Login/login
+ERR: 非法操作:Login
+
+[ 2016-08-19T18:02:40+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:02:40+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:02:54+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:02:54+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:02:56+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:02:56+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:02:56+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:02:56+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:16+08:00 ] ::1 /wgyt/index.php/Admin/Index/Estate/index
+ERR: 非法操作:Estate
+
+[ 2016-08-19T18:03:20+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:20+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:21+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:21+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:24+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:24+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:24+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:24+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:29+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:29+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:29+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:29+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:33+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:33+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:33+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:33+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:41+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:03:41+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:04:34+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:04:34+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:04:35+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:04:35+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:07:15+08:00 ] ::1 /wgyt/index.php/Admin/Estate/login.html
+ERR: 非法操作:login
+
+[ 2016-08-19T18:07:30+08:00 ] ::1 /wgyt/index.php/Admin/Login/index.html
+ERR: 模板不存在:./Home/Admin/View/Login/index.html
+
+[ 2016-08-19T18:10:06+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:10:06+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:10:07+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:10:07+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:11:44+08:00 ] ::1 /wgyt/index.php/Admin/Login/index.html
+ERR: 模板不存在:./Home/Admin/View/Login/index.html
+
+[ 2016-08-19T18:11:52+08:00 ] ::1 /wgyt/index.php/Admin/Login/index.html
+ERR: 模板不存在:./Home/Admin/View/Login/index.html
+
+[ 2016-08-19T18:12:02+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:02+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:02+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:02+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:04+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:04+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:04+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:04+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:06+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:06+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:07+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:07+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:07+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/fullcalendar.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:07+08:00 ] ::1 /wgyt/index.php/Admin/Index/js/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2016-08-19T18:12:23+08:00 ] ::1 /wgyt/index.php/Admin/Login/index.html
+ERR: 模板不存在:./Home/Admin/View/Login/index.html
+

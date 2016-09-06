@@ -1,0 +1,281 @@
+[ 2016-09-06T14:19:28+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-09-06T14:19:29+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-06T14:19:30+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-09-06T14:19:30+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-09-06T14:19:30+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-06T14:19:51+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-06T14:20:10+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-06T14:20:11+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-06T14:20:20+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-09-06T14:21:21+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-06T14:22:35+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `property` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-09-06T14:22:56+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `property` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-09-06T14:23:15+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `property` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-09-06T14:24:46+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `property` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-09-06T14:25:38+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `property` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-09-06T14:28:17+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `property` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-09-06T14:29:23+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+
+[ 2016-09-06T14:31:36+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='11' ) [ RunTime:0.0050s ]
+
+[ 2016-09-06T14:33:01+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0030s ]
+SQL: DELETE FROM `property` WHERE ( id='9' ) [ RunTime:0.0040s ]
+SQL: DELETE FROM `property` WHERE ( id='9' ) [ RunTime:0.0000s ]
+
+[ 2016-09-06T14:33:36+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=13
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='13' ) [ RunTime:0.0050s ]
+SQL: DELETE FROM `property` WHERE ( id='13' ) [ RunTime:0.0000s ]
+
+[ 2016-09-06T14:34:39+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=14
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0030s ]
+SQL: DELETE FROM `property` WHERE ( id='14' ) [ RunTime:0.0050s ]
+SQL: DELETE FROM `property` WHERE ( id='14' ) [ RunTime:0.0000s ]
+
+[ 2016-09-06T14:35:08+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=15
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='15' ) [ RunTime:0.0140s ]
+
+[ 2016-09-06T14:35:15+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=12
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0030s ]
+SQL: DELETE FROM `property` WHERE ( id='12' ) [ RunTime:0.0050s ]
+
+[ 2016-09-06T14:35:16+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=17
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='17' ) [ RunTime:0.0040s ]
+
+[ 2016-09-06T14:35:58+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=93
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0030s ]
+SQL: DELETE FROM `property` WHERE ( id='93' ) [ RunTime:0.0040s ]
+
+[ 2016-09-06T14:36:00+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=92
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='92' ) [ RunTime:0.0120s ]
+
+[ 2016-09-06T14:36:01+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=91
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0030s ]
+SQL: DELETE FROM `property` WHERE ( id='91' ) [ RunTime:0.0040s ]
+
+[ 2016-09-06T14:43:37+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=89
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='89' ) [ RunTime:0.0050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-06T14:43:40+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=89
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='89' ) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-06T14:43:42+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=89
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0030s ]
+SQL: DELETE FROM `property` WHERE ( id='89' ) [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-06T14:45:19+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=88
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='88' ) [ RunTime:0.0050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-06T14:45:24+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=87
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='87' ) [ RunTime:0.0250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-06T14:51:49+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=86
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='86' ) [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-06T14:51:53+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=85
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='85' ) [ RunTime:0.0100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-06T17:37:23+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=80
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='80' ) [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-09-06T17:37:25+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=78
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='78' ) [ RunTime:0.0060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-06T17:39:49+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=73
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0030s ]
+SQL: DELETE FROM `property` WHERE ( id='73' ) [ RunTime:0.0070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-09-06T17:39:53+08:00 ] ::1 /tptest/index.php/Admin/Estate/doDel.html?id=74
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `property` [ RunTime:0.0020s ]
+SQL: DELETE FROM `property` WHERE ( id='74' ) [ RunTime:0.0050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
